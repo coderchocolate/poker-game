@@ -588,7 +588,7 @@ header_left, header_right = st.columns(
 
 with header_left:
 
-    st.title("Betting Game")
+    st.title("Poker Game")
 
 with header_right:
 
